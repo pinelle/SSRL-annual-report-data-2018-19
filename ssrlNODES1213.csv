@@ -1,0 +1,30 @@
+id,name,labs,group,group.name,size
+1,College of Arts & Science,,1,U of S SSRL Affiliated,10
+2,College of Education,,1,U of S SSRL Affiliated,10
+3,College of Medicine,,2,U of S Other,10
+4,College of Pharmacy & Nutrition,,2,U of S Other,10
+5,CollegeMobile,,3,U of S External,10
+6,Edwards School of Business,,1,U of S SSRL Affiliated,10
+7,Experimental Research Laboratory,EDL,4,SSRL,30
+8,Facilities Management Division,,2,U of S Other,10
+9,Imagine Canada,,3,U of S External,10
+10,International Research Office,,2,U of S Other,10
+11,Invasive Species Council of Manitoba,,3,U of S External,10
+12,Qualitative Research Laboratory,QRL,4,SSRL,30
+13,Saint Thomas More College,,1,U of S SSRL Affiliated,10
+14,Saskatchewan Population Health and Evaluation Research Unit,,3,U of S External,10
+15,Saskatoon Food ,,3,U of S External,10
+16,Saskatoon Health Region,,3,U of S External,10
+17,School of Environment and Sustainability,,1,U of S SSRL Affiliated,10
+18,School of Public Health,,2,U of S Other,10
+19,Spatial Analysis For Innovation in Health Research,SAFHIR,4,SSRL,30
+20,Survey and Group Analysis Laboratory,SGAL,4,SSRL,30
+21,The Office of First Nation & Metis Engagement,,2,U of S Other,10
+22,University Library,,1,U of S SSRL Affiliated,10
+23,University of Alberta,,3,U of S External,10
+24,University of Dalhousie,,3,U of S External,10
+25,University of Manitoba,,3,U of S External,10
+26,University of Montreal,,3,U of S External,10
+27,University of Regina,,3,U of S External,10
+28,University of Waterloo,,3,U of S External,10
+29,Video Therapy Analysis Laboratory,ViTAL,4,SSRL,30
